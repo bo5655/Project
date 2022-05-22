@@ -9,6 +9,6 @@
 using namespace std;
 
 int main() {
-
+    cout << "test ssh -T" << endl;
     return 0;
 }
